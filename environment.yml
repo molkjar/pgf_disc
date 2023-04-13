@@ -1,0 +1,11 @@
+name: pgf_disc
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - autopep8
+  - numpy
+  - scipy
+  - matplotlib
+  - memory_profiler
